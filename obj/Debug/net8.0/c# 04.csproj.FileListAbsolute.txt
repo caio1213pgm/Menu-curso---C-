@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\bin\Debug\net8.0\c# 04.exe
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\bin\Debug\net8.0\c# 04.deps.json
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\bin\Debug\net8.0\c# 04.runtimeconfig.json
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\bin\Debug\net8.0\c# 04.dll
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\bin\Debug\net8.0\c# 04.pdb
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.AssemblyInfo.cs
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.dll
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\refint\c# 04.dll
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.pdb
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\c# 04.genruntimeconfig.cache
+C:\Users\user\Desktop\Programação\C# VS CODE\c# 04\obj\Debug\net8.0\ref\c# 04.dll
